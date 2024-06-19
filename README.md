@@ -16,7 +16,7 @@ This Python code creates a scientific calculator with a graphical user interface
 1. Clone this repository to your local machine.
 2. Open a terminal or command prompt and navigate to the directory containing the code.
 3. Make sure you have Python and Tkinter installed. You can install them using `pip install tkinter`.
-4. Run the script using `python scientific_calculator.py` (replace `scientific_calculator.py` with the actual filename if it's different).
+4. Run the script using `python cal.py` (replace `cal.py` with the actual filename if it's different).
 
 ### Example Usage
 

@@ -2,6 +2,9 @@
 
 This Python code creates a scientific calculator with a graphical user interface (GUI) using the Tkinter library.
 
+![output](https://github.com/kingofallsnakes/py_calculator/assets/153209531/19de2634-9ad9-461b-89d2-39b1a1a95358)
+
+
 ### Features
 
 * Performs basic arithmetic operations (+, -, *, /)
